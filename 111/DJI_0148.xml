@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagenes 4000*3000 Camilo</folder>
+	<filename>DJI_0148.JPG</filename>
+	<path>/home/cesar/Escritorio/Imagenes 4000*3000 Camilo/DJI_0148.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Moldaje</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1479</xmin>
+			<ymin>1597</ymin>
+			<xmax>1976</xmax>
+			<ymax>1759</ymax>
+		</bndbox>
+	</object>
+</annotation>
